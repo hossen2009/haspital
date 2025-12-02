@@ -1,0 +1,15 @@
+header ul{
+    list-style: none;
+    margin: 0;
+}
+header a{
+    text-decoration: none;
+    color: inherit;
+}
+.slide{
+    background: url("../images/77777777777.jpg");
+    background-size: cover;
+}
+.h-200{
+    height: 31rem;
+}
